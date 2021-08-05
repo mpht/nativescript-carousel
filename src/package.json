@@ -1,6 +1,6 @@
 {
   "name": "humai-nativescript-carousel",
-  "description": "Carousel component for NativeScript (iOS & Android).",
+  "description": "Carousel component for NativeScript (iOS & Android). This is a fork from https://github.com/manijak/nativescript-carousel ",
   "main": "carousel",
   "version": "7.0.1",
   "typings": "carousel.d.ts",
@@ -47,7 +47,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/manijak/nativescript-carousel.git"
+    "url": "https://github.com/mpht/nativescript-carousel.git"
   },
   "keywords": [
     "NativeScript",
@@ -81,9 +81,9 @@
       "url": "https://github.com/rickwalking"
     }
   ],
-  "bugs": "https://github.com/manijak/nativescript-carousel/issues",
+  "bugs": "https://github.com/mpht/nativescript-carousel/issues",
   "license": "MIT",
-  "homepage": "https://github.com/manijak/nativescript-carousel",
+  "homepage": "https://github.com/mpht/nativescript-carousel",
   "devDependencies": {
     "@nativescript/core": "~7.0.3",
     "@nativescript/types": "^7.0.3",
