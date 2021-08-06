@@ -2,7 +2,7 @@
   "name": "humai-nativescript-carousel",
   "description": "Carousel component for NativeScript (iOS & Android). This is a fork from https://github.com/manijak/nativescript-carousel ",
   "main": "carousel",
-  "version": "7.0.1",
+  "version": "7.0.2",
   "typings": "carousel.d.ts",
   "nativescript": {
     "platforms": {
